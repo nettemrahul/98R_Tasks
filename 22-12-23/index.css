@@ -1,0 +1,9 @@
+*{
+    background-color: bisque ;
+    text-shadow: 10px;
+    text-transform: camelcase;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
