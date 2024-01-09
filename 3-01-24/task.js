@@ -1,10 +1,20 @@
 //Task 1
-var str = "Nettem Rahul Naidu";
+var str = ` Nettem Rahul Naidu
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+ Ullam fugiat, molestias, perferendis
+ voluptates nobis officiis excepturi facere consequuntur 
+ voluptatem molestiae reiciendis, magnam voluptas quam? 
+ Ducimus earum sapiente vero sint numquam`; 
 console.log(str); 
- 
- console.log("No of Characters in a string - ",str.length);
-var  a = str.split(" ")
- console.log(a,"No of words - ",a.length);
+
+var charcount = str.split(" ").length
+ console.log("Charcters count",charcount);
+
+ var wordscount = str.split("").length
+ console.log("wordscount ", wordscount);
+
+ var linescount = str.split("\n").length
+ console.log("Lines Count ",linescount);
 
 
 
@@ -40,9 +50,3 @@ for (var i =0; i<array.length; i++ )
     console.log(add);
 
 }
-
-
-
-
-
-
