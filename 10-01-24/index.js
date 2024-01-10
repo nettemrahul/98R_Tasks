@@ -1,4 +1,4 @@
-// Employee Class
+// Person Class
 class Person {
     constructor(name,age,gender,height){
         this.name = name;
