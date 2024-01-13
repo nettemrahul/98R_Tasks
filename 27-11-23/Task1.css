@@ -1,0 +1,9 @@
+body{
+    background-image: url(./images/cook.jpg);
+    background-position: center;
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    backdrop-filter: blur();
+}
