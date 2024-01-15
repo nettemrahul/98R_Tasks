@@ -1,0 +1,11 @@
+body{
+    columns: 2;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: cadetblue;
+}
+h1,h2,h3{
+    background-color:grey;
+    opacity: 1;
+}
