@@ -1,0 +1,48 @@
+*{
+    background-color: darkcyan;
+    text-decoration: none;
+}
+
+header, nav{
+    color: navy;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    font-size: xx-large;
+}
+.info{
+    position: relative;
+    left: 300px;
+}
+
+.image{
+    width: 30%;
+    height: 60%;
+    position:absolute;
+    right: -200px;
+    bottom: 0;
+    border-image: round;
+    
+}
+
+.image img{
+    position: relative;
+    height: 90%;
+    right: 40%;
+    width: 100%;
+    transform: translate(-35%);
+    bottom: 0;
+    border-radius: 58%;
+}
+.pos {
+    position: absolute;
+    left: 35%;
+}
+.hire {
+    font-size: x-large;
+    color: navy;
+    
+}
+.icons {
+    font-size: xx-large;
+}
