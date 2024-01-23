@@ -1,0 +1,41 @@
+img {
+    height: 412px;
+    width: 1520px;
+}
+.para1  img{
+    position: relative;
+    bottom: 180px;
+    font-size: xx-large;
+    left: 5%;   
+     
+}
+.para2 {
+    position: relative;
+    bottom: 300px;
+    left:220px;
+    font-size: xx-large;
+}
+.logo {
+    height: 150px;
+    width: 150px;
+}
+aside img{ 
+    height: 50px;
+    width: 50px;  
+
+}
+.name ,.Invite {
+    position: relative;
+    display: inline block;
+    bottom: 200px;
+}
+.name2 ,.Invite2 {
+    display: inline block;
+   
+}
+#one {
+    position: relative;
+    display: inline block;
+    left: 100px;
+    bottom: 100px;
+}
